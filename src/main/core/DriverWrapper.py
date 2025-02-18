@@ -62,10 +62,11 @@ class DriverWrapper:
             self.__init__()
         self._driver.get(url)
 
+    @classmethod
     def find_element(self, by, value):
         """Метод для знаходження елемента"""
         #Log.log(f"Locator: {by} Value: {value}", LogType.INFO)
-        return (self.get_driver().find_element(by, value), by, value)
+        return self.get_driver().find_element(by, value), by, value
 
     def find_elements(self, by, value):
         """Метод для знаходження списку елементів"""

@@ -1,0 +1,9 @@
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Відкриваємо головну сторінку Google
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Намагаємось перейти на URL: https://www.google.com
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Успішно перейшли на URL: https://www.google.com
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Відкрито головну сторінку Google
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Я Input знайдений за локатором: name з значенням: q
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Я Input виконую дію - записування тексту 'bosco lviv' в поле вводу з локатором: name і значенням: q
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Намагаємось змінити значення елемента: textarea
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Успішно змінили значення елемента: textarea
+[32mINFO    [0m GoogleSearchTest:Log.py:48 Я Input виконую дію - відправка форми з поля вводу з локатором: name і значенням: q
