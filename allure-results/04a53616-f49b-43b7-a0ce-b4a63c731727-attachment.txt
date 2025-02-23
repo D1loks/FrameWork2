@@ -1,9 +1,0 @@
-2025-02-18 12:17:21,190 - GoogleSearchTest - INFO - Відкриваємо головну сторінку Google
-2025-02-18 12:17:21,190 - GoogleSearchTest - INFO - Намагаємось перейти на URL: https://www.google.com
-2025-02-18 12:17:37,971 - GoogleSearchTest - INFO - Успішно перейшли на URL: https://www.google.com
-2025-02-18 12:17:37,981 - GoogleSearchTest - INFO - Відкрито головну сторінку Google
-2025-02-18 12:17:37,998 - GoogleSearchTest - INFO - Я Input знайдений за локатором: name з значенням: q
-2025-02-18 12:17:37,998 - GoogleSearchTest - INFO - Я Input виконую дію - записування тексту 'bosco lviv' в поле вводу з локатором: name і значенням: q
-2025-02-18 12:17:38,005 - GoogleSearchTest - INFO - Намагаємось змінити значення елемента: textarea
-2025-02-18 12:17:38,212 - GoogleSearchTest - INFO - Успішно змінили значення елемента: textarea
-2025-02-18 12:17:38,212 - GoogleSearchTest - INFO - Я Input виконую дію - відправка форми з поля вводу з локатором: name і значенням: q
